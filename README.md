@@ -6,4 +6,3 @@ Hello, I am a middle schooler. I love to think, especially in the areas of math 
 
 Also, if you find any errors in my proofs, please report back to me. It will improve my skills.
 
-I also have a math repository like this which you can find here: github.com/sakshamsethi123/Mathematics.
